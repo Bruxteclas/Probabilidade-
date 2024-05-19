@@ -19,5 +19,11 @@ O exercício envolve um conjunto de eventos e suas probabilidades associadas. Vo
 3. **Interpretar os resultados:**
    - Analisar e interpretar os resultados obtidos.
    - Relacionar os resultados com o contexto do problema.
+  
+  ## Instruções de Execução
+
+1. Clone o repositório para o seu ambiente local:
+   ```bash
+   git clone - https://github.com/Bruxteclas/Probabilidade-.git
 
 
