@@ -45,6 +45,7 @@ Utilizando dados simulados de peso de pacotes de ração para cachorro, realizar
 
 
 <img width="1052" height="652" alt="Captura de tela 2025-07-20 123819" src="https://github.com/user-attachments/assets/6faa4395-4bf7-46bc-a0c7-ef4af0d9042d" />
+
 4. **Cálculo de Percentis:**
    - Percentis para Y1 (Normal Padrão): [-1.95996398, 0.0, 1.95996398]
    - Percentis para Y2 (t-Student, 5 df): [-2.57058184, 6.97600362e-17, 2.57058184]
