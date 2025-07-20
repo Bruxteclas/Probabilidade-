@@ -41,8 +41,10 @@ Utilizando dados simulados de peso de pacotes de ração para cachorro, realizar
 
 3. **Visualização Gráfica de Probabilidades:**
    - Gráfico mostrando as distribuições acumuladas de probabilidade das variáveis Y1 e Y2.
+<img width="1186" height="749" alt="Captura de tela 2025-07-20 123803" src="https://github.com/user-attachments/assets/3e7e6e8f-20b9-4fd8-9fc5-dafd0c6d1e27" />
 
+
+<img width="1052" height="652" alt="Captura de tela 2025-07-20 123819" src="https://github.com/user-attachments/assets/6faa4395-4bf7-46bc-a0c7-ef4af0d9042d" />
 4. **Cálculo de Percentis:**
    - Percentis para Y1 (Normal Padrão): [-1.95996398, 0.0, 1.95996398]
    - Percentis para Y2 (t-Student, 5 df): [-2.57058184, 6.97600362e-17, 2.57058184]
-
